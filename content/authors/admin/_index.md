@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Chuanyu Du 杜传玉
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chuanyu
+last_name: Du
 
 # Status emoji
 status:
@@ -20,31 +20,35 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Graduate student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Institute of botany, CAS
+    url: http://english.ib.cas.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:duchuanyu@ibcas.ac.cn'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/dchuny1
+  """
   - icon: brands/instagram
     url: https://www.instagram.com/
+  """
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ChuanyuDu
+  """
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
+  """
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0003-6031-4888
 
 interests:
   - Artificial Intelligence
@@ -72,10 +76,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Ag.Sc. Horticulture
+    institution: Zhejiang University
+    date_start: 2020-09-01
+    date_end: 2024-06-30
     summary: |
       GPA: 3.4/4.0
       
@@ -83,6 +87,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+"""
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -106,6 +111,7 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+"""
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
